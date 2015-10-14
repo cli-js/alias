@@ -1,0 +1,30 @@
+{
+  "name": "@cli/alias",
+  "version": "0.3.0",
+  "description": "alias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo '1'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cli-js/alias.git"
+  },
+  "keywords": [
+    "alias",
+    "cli",
+    "interface",
+    "line",
+    "flag",
+    "command"
+  ],
+  "author": "Scott Corgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cli-js/alias/issues"
+  },
+  "homepage": "https://github.com/cli-js/alias#readme",
+  "dependencies": {
+    "as-array": "^2.0.0"
+  }
+}
