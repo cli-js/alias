@@ -1,7 +1,7 @@
 {
   "name": "@cli/alias",
   "version": "0.3.0",
-  "description": "alias",
+  "description": "Set the alias in a cli.js cli.js app",
   "main": "index.js",
   "scripts": {
     "test": "node ./test.js | tap-spec"
