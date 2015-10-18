@@ -1,5 +1,5 @@
 var namespace = require('tessed').namespace
-var alias = require('.')
+var alias = require('./index')
 
 var test = namespace('alias')
 
